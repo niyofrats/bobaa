@@ -3,3 +3,6 @@ body { font-family: Arial, sans-serif;color: #0dff00; }
 p { font-size: 1.2rem; color: #192eb4; }
 img { display: block; max-width: 100%; height: auto; border-radius: 8px; }
 body p + img { margin-top: 40px; }
+h3 {
+    color: #ffbb00;
+}
