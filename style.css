@@ -1,5 +1,5 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
-body { font-family: Arial, sans-serif;color: #333; }
-p { font-size: 1.2rem; color: #444; }
+body { font-family: Arial, sans-serif;color: #0dff00; }
+p { font-size: 1.2rem; color: #192eb4; }
 img { display: block; max-width: 100%; height: auto; border-radius: 8px; }
 body p + img { margin-top: 40px; }
